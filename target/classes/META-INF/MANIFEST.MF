@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: satyanav
+Build-Jdk: 9.0.4
+Implementation-Title: connect-four-vijay
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ninty8point6
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/connect-four-vijay
+Created-By: Maven Integration for Eclipse
+

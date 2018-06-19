@@ -1,0 +1,27 @@
+The Project is to expose the API for Connect four game. 
+The missing part in this is Game Engine to make decision factor regarding who is the winner. 
+I think i need a day/two more to design the game engine.
+
+Requirements:
+  Requires Maven 3 or newer and Java JDK 8 or newer.
+
+To build:
+  mvn clean package
+
+To run tests and coverage report:
+  mvn clean verify
+
+
+To Execute the Applicaiton:
+java -jar connect-four-vijay-0.0.1-SNAPSHOT
+
+URL for API:
+Swagger URL: for Testing API
+http://localhost:8080/swagger-ui.html
+
+API-Docs:
+http://localhost:8080/v2/api-docs
+
+H2-InMemory Database Console:
+http://localhost:8080/h2-console
+
